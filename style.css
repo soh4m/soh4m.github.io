@@ -46,7 +46,9 @@ span >i{
     margin-top: 40px;
     align-self: flex-end;
 }
-
+a:link{
+    color:white;
+}
 a:visited {
     color: white;
   }
